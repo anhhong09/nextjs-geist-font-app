@@ -1,0 +1,10 @@
+<!-- Placeholder drawable for Chocolate Cake -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="80dp"
+    android:height="80dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <path
+        android:fillColor="#6D4C41"
+        android:pathData="M4,20h16v-2H4v2zM4,4h16v10H4V4z" />
+</vector>
