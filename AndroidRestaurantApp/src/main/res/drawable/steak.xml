@@ -1,0 +1,10 @@
+<!-- Placeholder drawable for Steak -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="80dp"
+    android:height="80dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <path
+        android:fillColor="#8D6E63"
+        android:pathData="M12,2a10,10 0 1,0 10,10A10,10 0 0,0 12,2z" />
+</vector>
